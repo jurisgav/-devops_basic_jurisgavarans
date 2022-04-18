@@ -1,1 +1,2 @@
-# devops_basic_jurisgavarans
+# DevOps repozitorijs
+Juris Gavarāns DevOps repozitorijs pamati iesācējiem
