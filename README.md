@@ -1,1 +1,1 @@
-# -devops_basic_jurisgavarans
+# devops_basic_jurisgavarans
